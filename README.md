@@ -20,7 +20,7 @@ please put the training data in the *data* folder, and then run ```demo.m```. Fi
 MATLAB 2017 on a PC with 3.6GHz and 64G RAM.
 
 # Citation
-If you are interested in our article, please consider citing our paper:
+If you are interested in our JPSH model, please consider citing our paper:
 
 ```
 @article{xiaoqin_tomm_2022,
