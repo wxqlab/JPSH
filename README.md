@@ -16,7 +16,7 @@ train_model.m--train the JPSH model
 please put the training data in the *data* folder, and then run ```demo.m```. Finally, the results will be saved in the *results* folder. 
 
 
-## Dependency
+## Support
 MATLAB 2017 on a PC with 3.6GHz and 64G RAM.
 
 ## Citation
