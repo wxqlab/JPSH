@@ -13,7 +13,7 @@ test_model.m--return evaluation values of the JPSH model.
 
 train_model.m--train the JPSH model
 
-please put the training data in the *data* folder, and then run ```demo.m```. Finally, the results will be saved in the *results* folder. 
+Please put the training data in the *data* folder, and then run ```demo.m```. Finally, the results will be saved in the *results* folder. 
 
 
 ## Support
